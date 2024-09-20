@@ -1,0 +1,30 @@
+{
+  "name": "learn-express",
+  "version": "1.0.0",
+  "description": "This is the source code of [my tutorial](https://rahmanfadhil.com/express-rest-api/)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Rahman Fadhil <rhmnfadhil@gmail.com> (https://rahmanfadhil.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^5.10.0",
+    "node-fetch": "^3.3.0",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmanfadhil/learn-express-mongoose.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahmanfadhil/learn-express-mongoose/issues"
+  },
+  "homepage": "https://github.com/rahmanfadhil/learn-express-mongoose#readme"
+}
