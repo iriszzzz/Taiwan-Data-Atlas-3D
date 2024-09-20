@@ -1,0 +1,3908 @@
+[
+  {
+    "縣市": "臺北市",
+    "鄉鎮市區": "松山區",
+    "data": "524",
+    "region_id": "13",
+    "province_id": "1",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺北市",
+    "鄉鎮市區": "信義區",
+    "data": "957",
+    "region_id": "13",
+    "province_id": "1",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺北市",
+    "鄉鎮市區": "大安區",
+    "data": "788",
+    "region_id": "13",
+    "province_id": "1",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺北市",
+    "鄉鎮市區": "中山區",
+    "data": "702",
+    "region_id": "13",
+    "province_id": "1",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺北市",
+    "鄉鎮市區": "中正區",
+    "data": "402",
+    "region_id": "13",
+    "province_id": "1",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺北市",
+    "鄉鎮市區": "大同區",
+    "data": "577",
+    "region_id": "13",
+    "province_id": "1",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺北市",
+    "鄉鎮市區": "萬華區",
+    "data": "817",
+    "region_id": "13",
+    "province_id": "1",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺北市",
+    "鄉鎮市區": "文山區",
+    "data": "803",
+    "region_id": "13",
+    "province_id": "1",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺北市",
+    "鄉鎮市區": "南港區",
+    "data": "473",
+    "region_id": "13",
+    "province_id": "1",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺北市",
+    "鄉鎮市區": "內湖區",
+    "data": "918",
+    "region_id": "6",
+    "province_id": "1",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺北市",
+    "鄉鎮市區": "士林區",
+    "data": "1130",
+    "region_id": "6",
+    "province_id": "1",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺北市",
+    "鄉鎮市區": "北投區",
+    "data": "882",
+    "region_id": "6",
+    "province_id": "1",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "板橋區",
+    "data": "1672",
+    "region_id": "12",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "三重區",
+    "data": "1133",
+    "region_id": "5",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "中和區",
+    "data": "1368",
+    "region_id": "12",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "永和區",
+    "data": "596",
+    "region_id": "12",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "新莊區",
+    "data": "1144",
+    "region_id": "12",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "新店區",
+    "data": "1069",
+    "region_id": "21",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "樹林區",
+    "data": "474",
+    "region_id": "20",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "鶯歌區",
+    "data": "260",
+    "region_id": "20",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "三峽區",
+    "data": "374",
+    "region_id": "28",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "淡水區",
+    "data": "548",
+    "region_id": "1",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "汐止區",
+    "data": "768",
+    "region_id": "2",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "瑞芳區",
+    "data": "109",
+    "region_id": "8",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "土城區",
+    "data": "667",
+    "region_id": "20",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "蘆洲區",
+    "data": "632",
+    "region_id": "5",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "五股區",
+    "data": "243",
+    "region_id": "5",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "泰山區",
+    "data": "232",
+    "region_id": "4",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "林口區",
+    "data": "225",
+    "region_id": "4",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "深坑區",
+    "data": "61",
+    "region_id": "22",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "石碇區",
+    "data": "15",
+    "region_id": "22",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "坪林區",
+    "data": "1",
+    "region_id": "23",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "三芝區",
+    "data": "70",
+    "region_id": "0",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "石門區",
+    "data": "12",
+    "region_id": "0",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "八里區",
+    "data": "103",
+    "region_id": "1",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "平溪區",
+    "data": "11",
+    "region_id": "14",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "雙溪區",
+    "data": "9",
+    "region_id": "15",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "貢寮區",
+    "data": "13",
+    "region_id": "16",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "金山區",
+    "data": "45",
+    "region_id": "0",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "萬里區",
+    "data": "31",
+    "region_id": "2",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "烏來區",
+    "data": "17",
+    "region_id": "29",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "新北市",
+    "鄉鎮市區": "烏來區",
+    "data": "17",
+    "region_id": "36",
+    "province_id": "2",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "桃園市",
+    "鄉鎮市區": "楊梅區",
+    "data": "453",
+    "region_id": "18",
+    "province_id": "3",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "桃園市",
+    "鄉鎮市區": "蘆竹區",
+    "data": "441",
+    "region_id": "3",
+    "province_id": "3",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "桃園市",
+    "鄉鎮市區": "大園區",
+    "data": "246",
+    "region_id": "9",
+    "province_id": "3",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "桃園市",
+    "鄉鎮市區": "龜山區",
+    "data": "447",
+    "region_id": "3",
+    "province_id": "3",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "桃園市",
+    "鄉鎮市區": "八德區",
+    "data": "655",
+    "region_id": "11",
+    "province_id": "3",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "桃園市",
+    "鄉鎮市區": "龍潭區",
+    "data": "317",
+    "region_id": "18",
+    "province_id": "3",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "桃園市",
+    "鄉鎮市區": "平鎮區",
+    "data": "844",
+    "region_id": "19",
+    "province_id": "3",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "桃園市",
+    "鄉鎮市區": "新屋區",
+    "data": "129",
+    "region_id": "17",
+    "province_id": "3",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "桃園市",
+    "鄉鎮市區": "觀音區",
+    "data": "312",
+    "region_id": "9",
+    "province_id": "3",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "桃園市",
+    "鄉鎮市區": "復興區",
+    "data": "42",
+    "region_id": "35",
+    "province_id": "3",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "桃園市",
+    "鄉鎮市區": "中壢區",
+    "data": "1290",
+    "region_id": "10",
+    "province_id": "3",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "桃園市",
+    "鄉鎮市區": "大溪區",
+    "data": "297",
+    "region_id": "27",
+    "province_id": "3",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "基隆市",
+    "鄉鎮市區": "中正區",
+    "data": "180",
+    "region_id": "7",
+    "province_id": "0",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "基隆市",
+    "鄉鎮市區": "七堵區",
+    "data": "226",
+    "region_id": "7",
+    "province_id": "0",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "基隆市",
+    "鄉鎮市區": "暖暖區",
+    "data": "129",
+    "region_id": "7",
+    "province_id": "0",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "基隆市",
+    "鄉鎮市區": "仁愛區",
+    "data": "169",
+    "region_id": "7",
+    "province_id": "0",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "基隆市",
+    "鄉鎮市區": "中山區",
+    "data": "188",
+    "region_id": "7",
+    "province_id": "0",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "基隆市",
+    "鄉鎮市區": "信義區",
+    "data": "243",
+    "region_id": "7",
+    "province_id": "0",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "基隆市",
+    "鄉鎮市區": "安樂區",
+    "data": "173",
+    "region_id": "7",
+    "province_id": "0",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹市",
+    "鄉鎮市區": "東區",
+    "data": "494",
+    "region_id": "41",
+    "province_id": "4",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹市",
+    "鄉鎮市區": "北區",
+    "data": "568",
+    "region_id": "41",
+    "province_id": "4",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹市",
+    "鄉鎮市區": "香山區",
+    "data": "266",
+    "region_id": "41",
+    "province_id": "4",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "竹北市",
+    "data": "452",
+    "region_id": "32",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "竹東鎮",
+    "data": "270",
+    "region_id": "33",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "新埔鎮",
+    "data": "74",
+    "region_id": "34",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "關西鎮",
+    "data": "56",
+    "region_id": "44",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "湖口鄉",
+    "data": "254",
+    "region_id": "26",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "新豐鄉",
+    "data": "165",
+    "region_id": "25",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "芎林鄉",
+    "data": "43",
+    "region_id": "33",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "橫山鄉",
+    "data": "39",
+    "region_id": "43",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "北埔鄉",
+    "data": "35",
+    "region_id": "52",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "寶山鄉",
+    "data": "36",
+    "region_id": "42",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "峨眉鄉",
+    "data": "14",
+    "region_id": "52",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "尖石鄉",
+    "data": "72",
+    "region_id": "54",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "五峰鄉",
+    "data": "37",
+    "region_id": "53",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "新竹縣",
+    "鄉鎮市區": "尖石鄉",
+    "data": "72",
+    "region_id": "64",
+    "province_id": "5",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "宜蘭市",
+    "data": "298",
+    "region_id": "38",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "羅東鄉",
+    "data": "202",
+    "region_id": "47",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "蘇澳鎮",
+    "data": "81",
+    "region_id": "58",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "頭城鎮",
+    "data": "81",
+    "region_id": "24",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "頭城鎮",
+    "data": "81",
+    "region_id": "31",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "礁溪鄉",
+    "data": "90",
+    "region_id": "30",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "壯圍鄉",
+    "data": "64",
+    "region_id": "39",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "員山鄉",
+    "data": "99",
+    "region_id": "37",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "冬山鄉",
+    "data": "143",
+    "region_id": "47",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "五結鄉",
+    "data": "104",
+    "region_id": "48",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "三星鄉",
+    "data": "48",
+    "region_id": "46",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "大同鄉",
+    "data": "31",
+    "region_id": "45",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "7"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "大同鄉",
+    "data": "31",
+    "region_id": "55",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "7"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "大同鄉",
+    "data": "31",
+    "region_id": "56",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "7"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "大同鄉",
+    "data": "31",
+    "region_id": "65",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "7"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "大同鄉",
+    "data": "31",
+    "region_id": "66",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "7"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "大同鄉",
+    "data": "31",
+    "region_id": "75",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "7"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "大同鄉",
+    "data": "31",
+    "region_id": "76",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "7"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "南澳鄉",
+    "data": "34",
+    "region_id": "57",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "5"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "南澳鄉",
+    "data": "34",
+    "region_id": "67",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "5"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "南澳鄉",
+    "data": "34",
+    "region_id": "68",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "5"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "南澳鄉",
+    "data": "34",
+    "region_id": "77",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "5"
+  },
+  {
+    "縣市": "宜蘭縣",
+    "鄉鎮市區": "南澳鄉",
+    "data": "34",
+    "region_id": "78",
+    "province_id": "18",
+    "ratio": "1",
+    "occupation": "5"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "苗栗市",
+    "data": "263",
+    "region_id": "49",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "苑裡鎮",
+    "data": "160",
+    "region_id": "59",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "通霄鎮",
+    "data": "86",
+    "region_id": "59",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "竹南鎮",
+    "data": "274",
+    "region_id": "40",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "頭份市",
+    "data": "305",
+    "region_id": "40",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "後龍鎮",
+    "data": "97",
+    "region_id": "49",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "卓蘭鎮",
+    "data": "56",
+    "region_id": "61",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "大湖鄉",
+    "data": "23",
+    "region_id": "61",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "公館鄉",
+    "data": "89",
+    "region_id": "50",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "銅鑼鄉",
+    "data": "62",
+    "region_id": "60",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "南庄鄉",
+    "data": "35",
+    "region_id": "62",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "頭屋鄉",
+    "data": "34",
+    "region_id": "50",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "三義鄉",
+    "data": "48",
+    "region_id": "60",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "西湖鄉",
+    "data": "14",
+    "region_id": "49",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "造橋鄉",
+    "data": "40",
+    "region_id": "50",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "三灣鄉",
+    "data": "17",
+    "region_id": "51",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "獅潭鄉",
+    "data": "6",
+    "region_id": "51",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "泰安鄉",
+    "data": "31",
+    "region_id": "63",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "3"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "泰安鄉",
+    "data": "31",
+    "region_id": "73",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "3"
+  },
+  {
+    "縣市": "苗栗縣",
+    "鄉鎮市區": "泰安鄉",
+    "data": "31",
+    "region_id": "74",
+    "province_id": "6",
+    "ratio": "1",
+    "occupation": "3"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "中區",
+    "data": "97",
+    "region_id": "92",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "東區",
+    "data": "315",
+    "region_id": "92",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "西區",
+    "data": "488",
+    "region_id": "92",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "南區",
+    "data": "375",
+    "region_id": "92",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "北區",
+    "data": "774",
+    "region_id": "92",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "西屯區",
+    "data": "854",
+    "region_id": "91",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "南屯區",
+    "data": "470",
+    "region_id": "91",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "北屯區",
+    "data": "995",
+    "region_id": "93",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "豐原區",
+    "data": "715",
+    "region_id": "81",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "東勢區",
+    "data": "191",
+    "region_id": "71",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "大甲區",
+    "data": "282",
+    "region_id": "69",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "清水區",
+    "data": "292",
+    "region_id": "79",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "沙鹿區",
+    "data": "317",
+    "region_id": "79",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "梧棲區",
+    "data": "188",
+    "region_id": "79",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "后里區",
+    "data": "222",
+    "region_id": "70",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "神岡區",
+    "data": "296",
+    "region_id": "80",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "潭子區",
+    "data": "496",
+    "region_id": "81",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "大雅區",
+    "data": "393",
+    "region_id": "80",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "新社區",
+    "data": "95",
+    "region_id": "82",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "石岡區",
+    "data": "29",
+    "region_id": "82",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "外埔區",
+    "data": "127",
+    "region_id": "69",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "大安區",
+    "data": "57",
+    "region_id": "69",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "烏日區",
+    "data": "250",
+    "region_id": "102",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "大肚區",
+    "data": "193",
+    "region_id": "90",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "龍井區",
+    "data": "273",
+    "region_id": "90",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "霧峰區",
+    "data": "259",
+    "region_id": "103",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "太平區",
+    "data": "767",
+    "region_id": "93",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "大里區",
+    "data": "875",
+    "region_id": "103",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "和平區",
+    "data": "32",
+    "region_id": "72",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "6"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "和平區",
+    "data": "32",
+    "region_id": "83",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "6"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "和平區",
+    "data": "32",
+    "region_id": "84",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "6"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "和平區",
+    "data": "32",
+    "region_id": "85",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "6"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "和平區",
+    "data": "32",
+    "region_id": "94",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "6"
+  },
+  {
+    "縣市": "臺中市",
+    "鄉鎮市區": "和平區",
+    "data": "32",
+    "region_id": "95",
+    "province_id": "7",
+    "ratio": "1",
+    "occupation": "6"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "彰化市",
+    "data": "698",
+    "region_id": "100",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "鹿港鎮",
+    "data": "249",
+    "region_id": "99",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "和美鎮",
+    "data": "298",
+    "region_id": "89",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "線西鄉",
+    "data": "42",
+    "region_id": "89",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "伸港鄉",
+    "data": "132",
+    "region_id": "89",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "福興鄉",
+    "data": "144",
+    "region_id": "99",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "秀水鄉",
+    "data": "127",
+    "region_id": "100",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "花壇鄉",
+    "data": "154",
+    "region_id": "101",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "芬園鄉",
+    "data": "83",
+    "region_id": "101",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "員林市",
+    "data": "329",
+    "region_id": "111",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "溪湖鎮",
+    "data": "167",
+    "region_id": "110",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "田中鎮",
+    "data": "115",
+    "region_id": "122",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "大村鄉",
+    "data": "131",
+    "region_id": "111",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "埔鹽鄉",
+    "data": "90",
+    "region_id": "110",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "埔心鄉",
+    "data": "109",
+    "region_id": "110",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "永靖鄉",
+    "data": "90",
+    "region_id": "111",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "社頭鄉",
+    "data": "107",
+    "region_id": "122",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "二水鄉",
+    "data": "45",
+    "region_id": "122",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "北斗鎮",
+    "data": "135",
+    "region_id": "121",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "二林鎮",
+    "data": "165",
+    "region_id": "109",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "田尾鄉",
+    "data": "72",
+    "region_id": "121",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "埤頭鄉",
+    "data": "104",
+    "region_id": "121",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "芳苑鄉",
+    "data": "103",
+    "region_id": "109",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "大城鄉",
+    "data": "35",
+    "region_id": "120",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "竹塘鄉",
+    "data": "22",
+    "region_id": "120",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "彰化縣",
+    "鄉鎮市區": "溪州鄉",
+    "data": "106",
+    "region_id": "121",
+    "province_id": "8",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "南投市",
+    "data": "310",
+    "region_id": "123",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "埔里鎮",
+    "data": "346",
+    "region_id": "114",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "草屯鎮",
+    "data": "325",
+    "region_id": "112",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "竹山鎮",
+    "data": "192",
+    "region_id": "146",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "竹山鎮",
+    "data": "192",
+    "region_id": "158",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "集集鎮",
+    "data": "28",
+    "region_id": "136",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "名間鄉",
+    "data": "85",
+    "region_id": "135",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "鹿谷鄉",
+    "data": "30",
+    "region_id": "147",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "中寮鄉",
+    "data": "26",
+    "region_id": "124",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "魚池鄉",
+    "data": "43",
+    "region_id": "125",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "國姓鄉",
+    "data": "36",
+    "region_id": "113",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "水里鄉",
+    "data": "40",
+    "region_id": "137",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "信義鄉",
+    "data": "79",
+    "region_id": "138",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "信義鄉",
+    "data": "79",
+    "region_id": "139",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "信義鄉",
+    "data": "79",
+    "region_id": "148",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "信義鄉",
+    "data": "79",
+    "region_id": "149",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "信義鄉",
+    "data": "79",
+    "region_id": "159",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "信義鄉",
+    "data": "79",
+    "region_id": "160",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "信義鄉",
+    "data": "79",
+    "region_id": "161",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "信義鄉",
+    "data": "79",
+    "region_id": "150",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "仁愛鄉",
+    "data": "135",
+    "region_id": "104",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "6"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "仁愛鄉",
+    "data": "135",
+    "region_id": "105",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "6"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "仁愛鄉",
+    "data": "135",
+    "region_id": "115",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "6"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "仁愛鄉",
+    "data": "135",
+    "region_id": "116",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "6"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "仁愛鄉",
+    "data": "135",
+    "region_id": "126",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "6"
+  },
+  {
+    "縣市": "南投縣",
+    "鄉鎮市區": "仁愛鄉",
+    "data": "135",
+    "region_id": "127",
+    "province_id": "10",
+    "ratio": "1",
+    "occupation": "6"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "斗六市",
+    "data": "430",
+    "region_id": "145",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "斗南鎮",
+    "data": "137",
+    "region_id": "144",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "麥寮鄉",
+    "data": "329",
+    "region_id": "131",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "虎尾鎮",
+    "data": "178",
+    "region_id": "143",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "西螺鎮",
+    "data": "125",
+    "region_id": "132",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "土庫鎮",
+    "data": "157",
+    "region_id": "143",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "北港鎮",
+    "data": "123",
+    "region_id": "154",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "古坑鄉",
+    "data": "42",
+    "region_id": "145",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "大埤鄉",
+    "data": "122",
+    "region_id": "144",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "莿桐鄉",
+    "data": "69",
+    "region_id": "133",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "林內鄉",
+    "data": "100",
+    "region_id": "134",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "二崙鄉",
+    "data": "82",
+    "region_id": "132",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "崙背鄉",
+    "data": "178",
+    "region_id": "131",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "東勢鄉",
+    "data": "58",
+    "region_id": "142",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "褒忠鄉",
+    "data": "51",
+    "region_id": "143",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "臺西鄉",
+    "data": "71",
+    "region_id": "142",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "元長鄉",
+    "data": "82",
+    "region_id": "143",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "四湖鄉",
+    "data": "69",
+    "region_id": "142",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "口湖鄉",
+    "data": "76",
+    "region_id": "154",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "雲林縣",
+    "鄉鎮市區": "水林鄉",
+    "data": "99",
+    "region_id": "154",
+    "province_id": "9",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "太保市",
+    "data": "127",
+    "region_id": "166",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "朴子市",
+    "data": "156",
+    "region_id": "166",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "布袋鎮",
+    "data": "60",
+    "region_id": "175",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "大林市",
+    "data": "176",
+    "region_id": "156",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "民雄鄉",
+    "data": "277",
+    "region_id": "156",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "溪口鄉",
+    "data": "41",
+    "region_id": "155",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "新港鄉",
+    "data": "86",
+    "region_id": "155",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "六腳鄉",
+    "data": "49",
+    "region_id": "165",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "東石鄉",
+    "data": "56",
+    "region_id": "165",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "義竹鄉",
+    "data": "49",
+    "region_id": "175",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "鹿草鄉",
+    "data": "30",
+    "region_id": "166",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "水上鄉",
+    "data": "223",
+    "region_id": "178",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "中埔鄉",
+    "data": "203",
+    "region_id": "178",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "竹崎鄉",
+    "data": "122",
+    "region_id": "168",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "梅山鄉",
+    "data": "49",
+    "region_id": "157",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "番路鄉",
+    "data": "30",
+    "region_id": "178",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "大埔鄉",
+    "data": "4",
+    "region_id": "189",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "阿里山鄉",
+    "data": "18",
+    "region_id": "169",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "嘉義縣",
+    "鄉鎮市區": "阿里山鄉",
+    "data": "18",
+    "region_id": "179",
+    "province_id": "12",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "嘉義市",
+    "鄉鎮市區": "東區",
+    "data": "347",
+    "region_id": "167",
+    "province_id": "11",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "嘉義市",
+    "鄉鎮市區": "西區",
+    "data": "415",
+    "region_id": "167",
+    "province_id": "11",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "花蓮市",
+    "data": "352",
+    "region_id": "98",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "鳳林鎮",
+    "data": "31",
+    "region_id": "130",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "玉里鎮",
+    "data": "75",
+    "region_id": "164",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "玉里鎮",
+    "data": "75",
+    "region_id": "174",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "新城鄉",
+    "data": "105",
+    "region_id": "88",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "吉安鄉",
+    "data": "295",
+    "region_id": "108",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "壽豐鄉",
+    "data": "56",
+    "region_id": "119",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "光復鄉",
+    "data": "38",
+    "region_id": "141",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "豐濱鄉",
+    "data": "12",
+    "region_id": "153",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "瑞穗鄉",
+    "data": "64",
+    "region_id": "152",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "富里鄉",
+    "data": "38",
+    "region_id": "184",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "富里鄉",
+    "data": "38",
+    "region_id": "195",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "秀林鄉",
+    "data": "127",
+    "region_id": "86",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "秀林鄉",
+    "data": "127",
+    "region_id": "87",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "秀林鄉",
+    "data": "127",
+    "region_id": "96",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "秀林鄉",
+    "data": "127",
+    "region_id": "97",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "秀林鄉",
+    "data": "127",
+    "region_id": "106",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "秀林鄉",
+    "data": "127",
+    "region_id": "107",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "秀林鄉",
+    "data": "127",
+    "region_id": "117",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "秀林鄉",
+    "data": "127",
+    "region_id": "118",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "8"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "萬榮鄉",
+    "data": "98",
+    "region_id": "128",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "4"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "萬榮鄉",
+    "data": "98",
+    "region_id": "129",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "4"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "萬榮鄉",
+    "data": "98",
+    "region_id": "140",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "4"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "萬榮鄉",
+    "data": "98",
+    "region_id": "151",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "4"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "卓溪鄉",
+    "data": "25",
+    "region_id": "162",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "卓溪鄉",
+    "data": "25",
+    "region_id": "163",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "卓溪鄉",
+    "data": "25",
+    "region_id": "171",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "卓溪鄉",
+    "data": "25",
+    "region_id": "172",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "卓溪鄉",
+    "data": "25",
+    "region_id": "173",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "卓溪鄉",
+    "data": "25",
+    "region_id": "181",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "卓溪鄉",
+    "data": "25",
+    "region_id": "182",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "卓溪鄉",
+    "data": "25",
+    "region_id": "183",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "花蓮縣",
+    "鄉鎮市區": "卓溪鄉",
+    "data": "25",
+    "region_id": "194",
+    "province_id": "17",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "新營區",
+    "data": "221",
+    "region_id": "187",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "鹽水區",
+    "data": "82",
+    "region_id": "186",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "白河區",
+    "data": "76",
+    "region_id": "177",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "柳營區",
+    "data": "49",
+    "region_id": "187",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "後壁區",
+    "data": "58",
+    "region_id": "176",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "東山區",
+    "data": "57",
+    "region_id": "188",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "麻豆區",
+    "data": "96",
+    "region_id": "199",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "下營區",
+    "data": "47",
+    "region_id": "198",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "六甲區",
+    "data": "42",
+    "region_id": "188",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "官田區",
+    "data": "50",
+    "region_id": "199",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "大內區",
+    "data": "32",
+    "region_id": "210",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "佳里區",
+    "data": "150",
+    "region_id": "208",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "學甲區",
+    "data": "86",
+    "region_id": "198",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "西港區",
+    "data": "51",
+    "region_id": "209",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "七股區",
+    "data": "36",
+    "region_id": "208",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "將軍區",
+    "data": "33",
+    "region_id": "197",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "北門區",
+    "data": "18",
+    "region_id": "186",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "新化區",
+    "data": "91",
+    "region_id": "219",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "善化區",
+    "data": "110",
+    "region_id": "209",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "新市區",
+    "data": "99",
+    "region_id": "209",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "安定區",
+    "data": "77",
+    "region_id": "209",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "山上區",
+    "data": "16",
+    "region_id": "210",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "玉井區",
+    "data": "38",
+    "region_id": "210",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "楠西區",
+    "data": "26",
+    "region_id": "200",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "南化區",
+    "data": "17",
+    "region_id": "200",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "左鎮區",
+    "data": "9",
+    "region_id": "219",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "仁德區",
+    "data": "201",
+    "region_id": "218",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "歸仁區",
+    "data": "148",
+    "region_id": "219",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "關廟區",
+    "data": "81",
+    "region_id": "219",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "龍崎嶇",
+    "data": "4",
+    "region_id": "219",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "永康區",
+    "data": "655",
+    "region_id": "218",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "東區",
+    "data": "456",
+    "region_id": "218",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "南區",
+    "data": "353",
+    "region_id": "218",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "北區",
+    "data": "351",
+    "region_id": "218",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "安南區",
+    "data": "470",
+    "region_id": "218",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "安平區",
+    "data": "185",
+    "region_id": "218",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺南市",
+    "鄉鎮市區": "中西區",
+    "data": "192",
+    "region_id": "218",
+    "province_id": "13",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "鹽埕區",
+    "data": "89",
+    "region_id": "250",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "鼓山區",
+    "data": "522",
+    "region_id": "243",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "左營區",
+    "data": "661",
+    "region_id": "243",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "楠梓區",
+    "data": "736",
+    "region_id": "243",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "三民區",
+    "data": "1231",
+    "region_id": "243",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "新興區",
+    "data": "199",
+    "region_id": "243",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "前金區",
+    "data": "119",
+    "region_id": "243",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "苓雅區",
+    "data": "652",
+    "region_id": "250",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "前鎮區",
+    "data": "777",
+    "region_id": "250",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "旗津區",
+    "data": "110",
+    "region_id": "250",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "小港區",
+    "data": "642",
+    "region_id": "250",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "鳳山區",
+    "data": "1544",
+    "region_id": "250",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "林園區",
+    "data": "247",
+    "region_id": "250",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "大寮區",
+    "data": "470",
+    "region_id": "250",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "大樹區",
+    "data": "144",
+    "region_id": "236",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "大社區",
+    "data": "161",
+    "region_id": "236",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "仁武區",
+    "data": "320",
+    "region_id": "236",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "鳥松區",
+    "data": "149",
+    "region_id": "236",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "岡山區",
+    "data": "329",
+    "region_id": "235",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "橋頭區",
+    "data": "122",
+    "region_id": "235",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "燕巢區",
+    "data": "102",
+    "region_id": "236",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "田寮區",
+    "data": "18",
+    "region_id": "227",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "阿蓮區",
+    "data": "93",
+    "region_id": "227",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "路竹區",
+    "data": "184",
+    "region_id": "269",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "湖內區",
+    "data": "112",
+    "region_id": "269",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "茄萣區",
+    "data": "88",
+    "region_id": "269",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "永安區",
+    "data": "26",
+    "region_id": "269",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "彌陀區",
+    "data": "59",
+    "region_id": "235",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "梓官區",
+    "data": "149",
+    "region_id": "235",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "旗山區",
+    "data": "136",
+    "region_id": "228",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "美濃區",
+    "data": "130",
+    "region_id": "228",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "六龜區",
+    "data": "43",
+    "region_id": "221",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "六龜區",
+    "data": "43",
+    "region_id": "229",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "甲仙區",
+    "data": "7",
+    "region_id": "201",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "杉林區",
+    "data": "73",
+    "region_id": "211",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "杉林區",
+    "data": "73",
+    "region_id": "220",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "內門區",
+    "data": "34",
+    "region_id": "219",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "茂林區",
+    "data": "12",
+    "region_id": "230",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "桃源區",
+    "data": "12",
+    "region_id": "170",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "桃源區",
+    "data": "12",
+    "region_id": "180",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "桃源區",
+    "data": "12",
+    "region_id": "191",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "桃源區",
+    "data": "12",
+    "region_id": "192",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "桃源區",
+    "data": "12",
+    "region_id": "202",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "桃源區",
+    "data": "12",
+    "region_id": "203",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "桃源區",
+    "data": "12",
+    "region_id": "212",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "桃源區",
+    "data": "12",
+    "region_id": "213",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "桃源區",
+    "data": "12",
+    "region_id": "222",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "9"
+  },
+  {
+    "縣市": "高雄市",
+    "鄉鎮市區": "那瑪夏區",
+    "data": "19",
+    "region_id": "190",
+    "province_id": "14",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "屏東市",
+    "data": "674",
+    "region_id": "244",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "潮州鎮",
+    "data": "307",
+    "region_id": "252",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "東港鄉",
+    "data": "189",
+    "region_id": "256",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "恆春鄉",
+    "data": "123",
+    "region_id": "268",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "萬丹鄉",
+    "data": "146",
+    "region_id": "251",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "長治鄉",
+    "data": "110",
+    "region_id": "245",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "麟洛鄉",
+    "data": "28",
+    "region_id": "245",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "九如鄉",
+    "data": "71",
+    "region_id": "244",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "里港鄉",
+    "data": "71",
+    "region_id": "237",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "鹽埔鄉",
+    "data": "64",
+    "region_id": "245",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "高樹鄉",
+    "data": "51",
+    "region_id": "238",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "萬巒鄉",
+    "data": "54",
+    "region_id": "252",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "內埔鄉",
+    "data": "247",
+    "region_id": "246",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "竹田鄉",
+    "data": "55",
+    "region_id": "252",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "新埤鄉",
+    "data": "35",
+    "region_id": "261",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "枋寮鄉",
+    "data": "125",
+    "region_id": "261",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "新園鄉",
+    "data": "124",
+    "region_id": "256",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "崁頂鄉",
+    "data": "38",
+    "region_id": "256",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "林邊鄉",
+    "data": "51",
+    "region_id": "257",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "南州鄉",
+    "data": "36",
+    "region_id": "257",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "佳冬鄉",
+    "data": "50",
+    "region_id": "257",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "車城鄉",
+    "data": "37",
+    "region_id": "266",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "滿洲鄉",
+    "data": "15",
+    "region_id": "267",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "枋山鄉",
+    "data": "36",
+    "region_id": "264",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "三地門鄉",
+    "data": "28",
+    "region_id": "239",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "霧臺鄉",
+    "data": "2",
+    "region_id": "240",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "瑪家鄉",
+    "data": "16",
+    "region_id": "247",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "泰武鄉",
+    "data": "18",
+    "region_id": "253",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "來義鄉",
+    "data": "21",
+    "region_id": "253",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "春日鄉",
+    "data": "26",
+    "region_id": "258",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "獅子鄉",
+    "data": "13",
+    "region_id": "262",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "屏東縣",
+    "鄉鎮市區": "牡丹鄉",
+    "data": "10",
+    "region_id": "265",
+    "province_id": "15",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "臺東市",
+    "data": "619",
+    "region_id": "234",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "成功鎮",
+    "data": "63",
+    "region_id": "207",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "關山鎮",
+    "data": "33",
+    "region_id": "216",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "卑南鄉",
+    "data": "117",
+    "region_id": "226",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "3"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "卑南鄉",
+    "data": "117",
+    "region_id": "233",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "3"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "卑南鄉",
+    "data": "117",
+    "region_id": "241",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "3"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "鹿野鄉",
+    "data": "38",
+    "region_id": "225",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "池上鄉",
+    "data": "43",
+    "region_id": "206",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "東河鄉",
+    "data": "26",
+    "region_id": "217",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "長濱鄉",
+    "data": "26",
+    "region_id": "196",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "長濱鄉",
+    "data": "26",
+    "region_id": "185",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "太麻里鄉",
+    "data": "47",
+    "region_id": "242",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "太麻里鄉",
+    "data": "47",
+    "region_id": "249",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "大武鄉",
+    "data": "28",
+    "region_id": "255",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "大武鄉",
+    "data": "28",
+    "region_id": "260",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "海端鄉",
+    "data": "34",
+    "region_id": "193",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "5"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "海端鄉",
+    "data": "34",
+    "region_id": "204",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "5"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "海端鄉",
+    "data": "34",
+    "region_id": "205",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "5"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "海端鄉",
+    "data": "34",
+    "region_id": "214",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "5"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "海端鄉",
+    "data": "34",
+    "region_id": "215",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "5"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "延平鄉",
+    "data": "27",
+    "region_id": "231",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "4"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "延平鄉",
+    "data": "27",
+    "region_id": "232",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "4"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "延平鄉",
+    "data": "27",
+    "region_id": "223",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "4"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "延平鄉",
+    "data": "27",
+    "region_id": "224",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "4"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "金峰鄉",
+    "data": "14",
+    "region_id": "248",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "金峰鄉",
+    "data": "14",
+    "region_id": "254",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "達仁鄉",
+    "data": "15",
+    "region_id": "259",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "達仁鄉",
+    "data": "15",
+    "region_id": "263",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "2"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "蘭嶼鄉",
+    "data": "2",
+    "region_id": "270",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "臺東縣",
+    "鄉鎮市區": "綠島鄉",
+    "data": "6",
+    "region_id": "270",
+    "province_id": "16",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "澎湖縣",
+    "鄉鎮市區": "馬公市",
+    "data": "162",
+    "region_id": "271",
+    "province_id": "21",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "澎湖縣",
+    "鄉鎮市區": "湖西鄉",
+    "data": "30",
+    "region_id": "271",
+    "province_id": "21",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "澎湖縣",
+    "鄉鎮市區": "白沙鄉",
+    "data": "17",
+    "region_id": "271",
+    "province_id": "21",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "澎湖縣",
+    "鄉鎮市區": "西嶼鄉",
+    "data": "19",
+    "region_id": "271",
+    "province_id": "21",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "澎湖縣",
+    "鄉鎮市區": "望安鄉",
+    "data": "5",
+    "region_id": "271",
+    "province_id": "21",
+    "ratio": "1",
+    "occupation": "1"
+  },
+  {
+    "縣市": "澎湖縣",
+    "鄉鎮市區": "七美鄉",
+    "data": "5",
+    "region_id": "271",
+    "province_id": "21",
+    "ratio": "1",
+    "occupation": "1"
+  }
+]
